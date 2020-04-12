@@ -1,3 +1,5 @@
-summary {
-	font-size: 24px; 
+h2 {
+	display: inline-block;
+	margin: 0;
+	font-size: 24px;
 }
