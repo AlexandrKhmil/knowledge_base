@@ -115,6 +115,7 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 13. [http://hammerjs.github.io/](http://hammerjs.github.io/) #touch
 14. [https://d3js.org/](https://d3js.org/)
 15. [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
+16. [https://popper.js.org/](https://popper.js.org/)
 
 [Back](#list)
 
