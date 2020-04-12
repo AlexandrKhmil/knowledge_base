@@ -1,24 +1,31 @@
-<link rel="stylesheet" href="./css/styles.css">
-
 # JavaScript
 
-<details>
-<summary><h2>Boundles</h2></summary>
+## List
+
+1. [Boundles](#boundles)
+2. [TypeScript](#typescript)
+3. [React](#react)
+4. [Redux](#redux)
+5. [NodeJS](#nodejs)
+6. [Testing](#testing)
+7. [Other Frameworks](#other-frameworks)
+8. [Other Libs](#other-libs)
+9. [Other](#other)
+
+## Boundles
 
 1. Webpack - [https://webpack.js.org/](https://webpack.js.org/)
 2. Yarn - [https://classic.yarnpkg.com/lang/en/](https://classic.yarnpkg.com/lang/en/)
 
-</details>
+[Back](#list)
 
-<details>
-<summary><h2>TypeScript</h2></summary>
+## TypeScript
 
 1. TypeScript - [https://www.typescriptlang.org/index.html](https://www.typescriptlang.org/index.html)
 
-</details>
+[Back](#list)
 
-<details>
-<summary><h2>React</h2></summary>
+## React
 
 React - [https://reactjs.org/](https://reactjs.org/)
 
@@ -32,10 +39,9 @@ React - [https://reactjs.org/](https://reactjs.org/)
 2. [https://reactcommunity.org/react-transition-group/](https://reactcommunity.org/react-transition-group/)
 3. [https://github.com/schiehll/react-alert](https://github.com/schiehll/react-alert)
 
-</details>
+[Back](#list)
 
-<details>
-<summary><h2>Redux</h2></summary>
+## Redux
 
 Redux - [https://redux.js.org/](https://redux.js.org/)
 
@@ -49,10 +55,9 @@ Redux - [https://redux.js.org/](https://redux.js.org/)
 6. [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
 7. [https://github.com/rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)
 
-</details>
+[Back](#list)
 
-<details>
-<summary><h2>NodeJS</h2></summary>
+## NodeJS
 
 NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 
@@ -73,17 +78,15 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 3. [https://github.com/SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro)
 4. [https://www.npmjs.com/package/node-mysql-admin](https://www.npmjs.com/package/node-mysql-admin)
 
-</details>
+[Back](#list)
 
-<details>
-<summary><h2>Testing</h2></summary>
+## Testing
 
 1. JestJS - [https://jestjs.io/en/](https://jestjs.io/en/)
 
-</details>
+[Back](#list)
 
-<details>
-<summary><h2>Other Frameworks</h2></summary>
+## Other Frameworks
 
 1. RxJS - [https://rxjs-dev.firebaseapp.com/](https://rxjs-dev.firebaseapp.com/)
 2. GraphQL - [https://graphql.org/](https://graphql.org/)
@@ -93,10 +96,9 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 6. VueJS - [https://vuejs.org/](https://vuejs.org/)
 7. Electron - [https://www.electronforge.io/](https://www.electronforge.io/)
 
-</details>
+[Back](#list)
 
-<details>
-<summary><h2>Other Libs</h2></summary>
+## Other Libs
 
 1. [https://www.npmjs.com/package/bcryptjs](https://www.npmjs.com/package/bcryptjs)
 2. [https://github.com/lorenwest/node-config](https://github.com/lorenwest/node-config) #node
@@ -114,10 +116,9 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 14. [https://d3js.org/](https://d3js.org/)
 15. [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
 
-</details>
+[Back](#list)
 
-<details>
-<summary><h2>Other</h2></summary>
+## Other
 
 1. [https://www.meteor.com/](https://www.meteor.com/)
 2. [https://github.com/zeit/micro](https://github.com/zeit/micro)
@@ -128,4 +129,4 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 7. [https://phaser.io/](https://phaser.io/)
 8. [https://github.com/tj/co](https://github.com/tj/co)
 
-</details>
+[Back](#list)
