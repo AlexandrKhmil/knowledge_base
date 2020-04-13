@@ -2,15 +2,29 @@
 
 ## List
 
-1. [Boundles](#boundles)
-2. [TypeScript](#typescript)
-3. [React](#react)
-4. [Redux](#redux)
-5. [NodeJS](#nodejs)
-6. [Testing](#testing)
-7. [Other Frameworks](#other-frameworks)
-8. [Other Libs](#other-libs)
-9. [Other](#other)
+1. [Repos](#repos)
+2. [Boundles](#boundles)
+3. [TypeScript](#typescript)
+4. [React](#react)
+5. [Redux](#redux)
+6. [NodeJS](#nodejs)
+7. [Testing](#testing)
+8. [Other Frameworks](#other-frameworks)
+9. [Other Libs](#other-libs)
+10. [Other](#other)
+
+## Repos
+
+1. A List of Useful Resources for Front End Developers - [https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents)
+2. What the f\*ck JavaScript? - [https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+3. **Awesome JS** - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. JavaScript Questions - [https://github.com/lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+5. JavaScript Algorithms and Data Structures - [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+6. Clean Code JavaScript - [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+7. Free Resources JS - [https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+8. Free Programming Books - [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+[⬆ Back to Top](#list)
 
 ## Boundles
 
