@@ -12,3 +12,4 @@
 10. Алгоритмы: построение и анализ. Том 1
 11. Database Benchmarking and Stress Testing
 12. В. Олифер, Н. Олифер «Компьютерные сети. Принципы, технологии, протоколы»
+13. A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) 
