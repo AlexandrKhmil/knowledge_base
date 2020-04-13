@@ -144,5 +144,6 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 6. [https://threejs.org/](https://threejs.org/)
 7. [https://phaser.io/](https://phaser.io/)
 8. [https://github.com/tj/co](https://github.com/tj/co)
+9. [https://ramdajs.com/](https://ramdajs.com/)
 
 [Back](#list)
