@@ -16,6 +16,7 @@
 6. [Brackets](http://brackets.io/)
 7. [PyCharm](https://www.jetbrains.com/pycharm/) #python
 8. [Visual Studio](https://visualstudio.microsoft.com/vs/) #c#
+9. [Spider](https://www.spyder-ide.org/) #python
 
 ## Notebooks
 
