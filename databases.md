@@ -1,5 +1,11 @@
 # Data Bases
 
+## Tools
+
+1. Workbench [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/) #mysql
+2. SQLyog & SQL Diagnostic Manager [https://www.webyog.com/](https://www.webyog.com/) #mysql
+3. HeidiSQL [https://www.heidisql.com/](https://www.heidisql.com/) #mysql
+
 ## MongoDB
 
 [https://www.mongodb.com/](https://www.mongodb.com/) #NoSQL
