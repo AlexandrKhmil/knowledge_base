@@ -37,6 +37,7 @@
 1. [ERROR 1698 (28000): Access denied for user 'root'@'localhost'](https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-user-rootlocalhost)
 2. [MySQL LAST_INSERT_ID Function](https://www.mysqltutorial.org/mysql-last_insert_id.aspx)
 3. [Best way to get identity of inserted row?](https://stackoverflow.com/questions/42648/best-way-to-get-identity-of-inserted-row)
+4. [\[VS Code\]\[ArchLinux\] Arch Linux secret_password_clear_sync() failed with error code 2: The name org.freedesktop.secrets was not provided by any .service files](https://github.com/MicrosoftDocs/live-share/issues/224)
 
 ## Heroku
 
