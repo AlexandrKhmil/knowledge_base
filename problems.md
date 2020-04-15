@@ -20,6 +20,7 @@
 3. [Pymongo keeps refusing the connection at 27017](https://stackoverflow.com/questions/7744147/pymongo-keeps-refusing-the-connection-at-27017/24410282)
 4. [Добавлять ли virtualenv в git?](https://qna.habr.com/q/282147)
 5. [ImportError: No module named 'google'](https://stackoverflow.com/questions/36183486/importerror-no-module-named-google)
+6. [ImportError: No module named google.cloud](https://stackoverflow.com/questions/44397506/importerror-no-module-named-google-cloud)
 
 ### Django
 
