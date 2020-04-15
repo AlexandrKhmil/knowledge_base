@@ -48,3 +48,4 @@
 ## Other
 
 1. [The command could not be located because '/snap/bin' is not included in the PATH environment variable](https://stackoverflow.com/questions/57121916/the-command-could-not-be-located-because-snap-bin-is-not-included-in-the-path)
+2. [Google Cloud](https://cloud.google.com/docs/authentication/getting-started)
