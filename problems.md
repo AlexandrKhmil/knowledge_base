@@ -13,6 +13,10 @@
 1. [Support for the experimental syntax 'classProperties' isn't currently enabled](https://stackoverflow.com/questions/52237855/support-for-the-experimental-syntax-classproperties-isnt-currently-enabled)
 2. [Adding a CSS Modules Stylesheet](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
 
+### Angular
+
+1. [ng serve not working when install latest version of angular cli](https://github.com/angular/angular-cli/issues/4895)
+
 ## Python
 
 1. [Get unique values in List of Lists in python](https://stackoverflow.com/questions/30565759/get-unique-values-in-list-of-lists-in-python/30565803)
