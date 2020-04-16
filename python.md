@@ -37,6 +37,10 @@
     1. [https://scipy-cookbook.readthedocs.io/index.html](https://scipy-cookbook.readthedocs.io/index.html)
 9. [https://keras.io/](https://keras.io/)
 
+### Google Cloud
+
+1. [Python Client for Google BigQuery](https://googleapis.dev/python/bigquery/latest/index.html)
+
 ## Scrapping
 
 1. [https://scrapy.org/](https://scrapy.org/)
