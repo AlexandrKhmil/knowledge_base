@@ -110,6 +110,7 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
     1. Update - [https://update.angular.io/](https://update.angular.io/)
 5. NgRx - [https://ngrx.io/](https://ngrx.io/)
 6. VueJS - [https://vuejs.org/](https://vuejs.org/)
+    1. VueCLI - [https://cli.vuejs.org/ru/](https://cli.vuejs.org/ru/)
 7. Electron - [https://www.electronforge.io/](https://www.electronforge.io/)
 
 [Back](#list)
