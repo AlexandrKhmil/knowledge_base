@@ -1,5 +1,9 @@
 # Python
 
+## Link to Other Files
+
+[JavaScript](./javascript.md) [Python](./python.md)
+
 ## Documentation
 
 1. [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)

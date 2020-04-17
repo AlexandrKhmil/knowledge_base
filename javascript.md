@@ -1,5 +1,9 @@
 # JavaScript
 
+## Link to Other Files
+
+[JavaScript](./javascript.md) [Python](./python.md)
+
 ## List
 
 1. [Repos](#repos)
@@ -31,14 +35,15 @@
 1. Webpack - [https://webpack.js.org/](https://webpack.js.org/)
 2. Yarn - [https://classic.yarnpkg.com/lang/en/](https://classic.yarnpkg.com/lang/en/)
 
-[Back](#list)
+[⬆ Back to Top](#list)
 
 ## TypeScript
 
 1. TypeScript - [https://www.typescriptlang.org/index.html](https://www.typescriptlang.org/index.html)
 2. Flow - [https://flow.org/](https://flow.org/)
+3. ImmutaleJS - [https://immutable-js.github.io/immutable-js/](https://immutable-js.github.io/immutable-js/)
 
-[Back](#list)
+[⬆ Back to Top](#list)
 
 ## React
 
@@ -55,7 +60,7 @@ Create React App - [https://create-react-app.dev/](https://create-react-app.dev/
 2. [https://reactcommunity.org/react-transition-group/](https://reactcommunity.org/react-transition-group/)
 3. [https://github.com/schiehll/react-alert](https://github.com/schiehll/react-alert)
 
-[Back](#list)
+[⬆ Back to Top](#list)
 
 ## Redux
 
@@ -71,7 +76,7 @@ Redux - [https://redux.js.org/](https://redux.js.org/)
 6. [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
 7. [https://github.com/rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)
 
-[Back](#list)
+[⬆ Back to Top](#list)
 
 ## NodeJS
 
@@ -114,7 +119,7 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
     1. VueCLI - [https://cli.vuejs.org/ru/](https://cli.vuejs.org/ru/)
 7. Electron - [https://www.electronforge.io/](https://www.electronforge.io/)
 
-[Back](#list)
+[⬆ Back to Top](#list)
 
 ## Other Libs
 
@@ -127,16 +132,15 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 7. [https://express-validator.github.io/docs/](https://express-validator.github.io/docs/) #express
 8. [https://www.npmjs.com/package/svg-url-loader](https://www.npmjs.com/package/svg-url-loader) #react
 9. [https://www.npmjs.com/package/react-svg-loader](https://www.npmjs.com/package/react-svg-loader) #react
-10. [https://leafletjs.com/](https://leafletjs.com/) #maps
-11. [https://immutable-js.github.io/immutable-js/](https://immutable-js.github.io/immutable-js/)
-12. [https://www.chartjs.org/](https://www.chartjs.org/)
-13. [http://hammerjs.github.io/](http://hammerjs.github.io/) #touch
-14. [https://d3js.org/](https://d3js.org/)
-15. [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
-16. [https://popper.js.org/](https://popper.js.org/)
-17. **Axios** [https://github.com/axios/axios](https://github.com/axios/axios)
+10. [https://leafletjs.com/](https://leafletjs.com/) #maps 
+11. [https://www.chartjs.org/](https://www.chartjs.org/)
+12. [http://hammerjs.github.io/](http://hammerjs.github.io/) #touch
+13. [https://d3js.org/](https://d3js.org/)
+14. [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
+15. [https://popper.js.org/](https://popper.js.org/)
+16. **Axios** [https://github.com/axios/axios](https://github.com/axios/axios)
 
-[Back](#list)
+[⬆ Back to Top](#list)
 
 ## Other
 
@@ -150,4 +154,4 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 8. [https://github.com/tj/co](https://github.com/tj/co)
 9. [https://ramdajs.com/](https://ramdajs.com/)
 
-[Back](#list)
+[⬆ Back to Top](#list)
