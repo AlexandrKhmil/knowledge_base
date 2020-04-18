@@ -98,6 +98,7 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 2. [http://www.passportjs.org/](http://www.passportjs.org/)
 3. [https://github.com/SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro)
 4. [https://www.npmjs.com/package/node-mysql-admin](https://www.npmjs.com/package/node-mysql-admin)
+5. Socket - [https://socket.io/](https://socket.io/)
 
 [Back](#list)
 
