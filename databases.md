@@ -1,8 +1,11 @@
 # Data Bases
 
+## Link to Other Files
+
+[JavaScript](./javascript.md) [Python](./python.md) [DB](./databases.md) [Tools](./tools.md)
+
 ## List
 
-1. [Tools](#tools)
 1. [PostgreSQL](#postgresql)
 1. [MongoDB](#mongodb)
 1. [MySQL](#mysql)
@@ -17,13 +20,6 @@
 1. [Redis](#redis)
 1. [Apache Kafka](#apache-kafka)
 1. [Valentina](#valentina)
-
-## Tools
-
-1. Workbench - [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/) #mysql
-1. SQLyog & SQL Diagnostic Manager - [https://www.webyog.com/](https://www.webyog.com/) #mysql
-1. HeidiSQL - [https://www.heidisql.com/](https://www.heidisql.com/) #mysql
-1. SQLiteStudio - [https://sqlitestudio.pl/index.rvt](https://sqlitestudio.pl/index.rvt)
 
 ## PostgreSQL
 

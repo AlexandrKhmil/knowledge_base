@@ -2,7 +2,7 @@
 
 ## Link to Other Files
 
-[JavaScript](./javascript.md) [Python](./python.md)
+[JavaScript](./javascript.md) [Python](./python.md) [DB](./databases.md) [Tools](./tools.md)
 
 ## Documentation
 
