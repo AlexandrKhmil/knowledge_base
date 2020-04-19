@@ -13,6 +13,8 @@
 1. DataGrip - [https://www.jetbrains.com/datagrip/](https://www.jetbrains.com/datagrip/) #jetbrains
 1. DBeaver - [https://dbeaver.io/](https://dbeaver.io/)
 
+1. Best GUI tools for PostgreSQL - [https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows](https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows)
+
 ## Code Editors
 
 1. [Notepad++](https://notepad-plus-plus.org/)
