@@ -1,10 +1,33 @@
 # Data Bases
 
+## List
+
+1. [Tools](#tools)
+1. [PostgreSQL](#postgresql)
+1. [MongoDB](#mongodb)
+1. [MySQL](#mysql)
+1. [MariaDB](#mariadb)
+1. [SQLite](#sqlite)
+1. [Oracle](#oracle)
+1. [Microsoft SQL Server 2019](#microsoft-sql-server-2019)
+1. [SQL Azure](#sql-azure)
+1. [Apache Cassandra](#apache-cassandra)
+1. [Cloud Spanner](#cloud-spanner)
+1. [MemSQL](#memsql)
+1. [Redis](#redis)
+1. [Apache Kafka](#apache-kafka)
+1. [Valentina](#valentina)
+
 ## Tools
 
-1. Workbench [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/) #mysql
-2. SQLyog & SQL Diagnostic Manager [https://www.webyog.com/](https://www.webyog.com/) #mysql
-3. HeidiSQL [https://www.heidisql.com/](https://www.heidisql.com/) #mysql
+1. Workbench - [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/) #mysql
+1. SQLyog & SQL Diagnostic Manager - [https://www.webyog.com/](https://www.webyog.com/) #mysql
+1. HeidiSQL - [https://www.heidisql.com/](https://www.heidisql.com/) #mysql
+1. SQLiteStudio - [https://sqlitestudio.pl/index.rvt](https://sqlitestudio.pl/index.rvt)
+
+## PostgreSQL
+
+[https://www.postgresql.org/](https://www.postgresql.org/) #SQL
 
 ## MongoDB
 
@@ -18,17 +41,9 @@
 
 [https://mariadb.org/](https://mariadb.org/) #SQL
 
-## PostgreSQL
-
-[https://www.postgresql.org/](https://www.postgresql.org/) #SQL
-
 ## SQLite
 
 [https://www.sqlite.org/index.html](https://www.sqlite.org/index.html)
-
-### Software
-
-[https://sqlitestudio.pl/index.rvt](https://sqlitestudio.pl/index.rvt)
 
 ## Oracle
 
@@ -69,8 +84,8 @@
 ## Knowledge Base
 
 1. [https://github.com/](https://github.com/)
-2. [https://gitlab.com/](https://gitlab.com/)
-3. [https://wiki.js.org/](https://wiki.js.org/)
-4. [http://raneto.com/](http://raneto.com/)
-5. [https://www.gitbook.com/](https://www.gitbook.com/)
-6. [https://github.com/markserv/markserv](https://github.com/markserv/markserv)
+1. [https://gitlab.com/](https://gitlab.com/)
+1. [https://wiki.js.org/](https://wiki.js.org/)
+1. [http://raneto.com/](http://raneto.com/)
+1. [https://www.gitbook.com/](https://www.gitbook.com/)
+1. [https://github.com/markserv/markserv](https://github.com/markserv/markserv)
