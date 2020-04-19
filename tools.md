@@ -15,6 +15,8 @@
 1. Best GUI tools for PostgreSQL - [https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows](https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows)
 1. [https://www.dbdesigner.net/](https://www.dbdesigner.net/) #web
 1. [https://www.pgadmin.org/download/](https://www.pgadmin.org/download/)
+1. [http://phppgadmin.sourceforge.net/](http://phppgadmin.sourceforge.net/)
+1. [https://pgmodeler.io/](https://pgmodeler.io/)
 
 ## Code Editors
 
