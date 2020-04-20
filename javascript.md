@@ -148,13 +148,14 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 ## Other
 
 1. [https://www.meteor.com/](https://www.meteor.com/)
-2. [https://github.com/zeit/micro](https://github.com/zeit/micro)
-3. [https://nx.dev/](https://nx.dev/)
-4. [https://socket.io/](https://socket.io/)
-5. [https://www.babylonjs.com/](https://www.babylonjs.com/) #3D
-6. [https://threejs.org/](https://threejs.org/)
-7. [https://phaser.io/](https://phaser.io/)
-8. [https://github.com/tj/co](https://github.com/tj/co)
-9. [https://ramdajs.com/](https://ramdajs.com/)
+1. [https://github.com/zeit/micro](https://github.com/zeit/micro)
+1. [https://nx.dev/](https://nx.dev/)
+1. [https://socket.io/](https://socket.io/)
+1. [https://www.babylonjs.com/](https://www.babylonjs.com/) #3D
+1. [https://threejs.org/](https://threejs.org/)
+1. [https://phaser.io/](https://phaser.io/)
+1. [https://github.com/tj/co](https://github.com/tj/co)
+1. [https://ramdajs.com/](https://ramdajs.com/)
+1. [https://mobx.js.org/README.html](https://mobx.js.org/README.html)
 
 [⬆ Back to Top](#list)
