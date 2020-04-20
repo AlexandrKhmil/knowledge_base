@@ -6,7 +6,7 @@
 
 ## List
 
-1. [Examples](#examples)
+1. [Docs](#docs)
 1. [PostgreSQL](#postgresql)
 1. [MongoDB](#mongodb)
 1. [MySQL](#mysql)
@@ -22,9 +22,10 @@
 1. [Apache Kafka](#apache-kafka)
 1. [Valentina](#valentina)
 
-## Examples
+## Docs
 
-1. [http://www.databaseanswers.org/data_models/](http://www.databaseanswers.org/data_models/)
+1. Examples - [http://www.databaseanswers.org/data_models/](http://www.databaseanswers.org/data_models/)
+1. Convention - [https://www.isbe.net/Documents/SQL_server_standards.pdf](https://www.isbe.net/Documents/SQL_server_standards.pdf)
 
 ## PostgreSQL
 
