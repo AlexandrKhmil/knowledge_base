@@ -125,21 +125,22 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 ## Other Libs
 
 1. [https://www.npmjs.com/package/bcryptjs](https://www.npmjs.com/package/bcryptjs)
-2. [https://github.com/lorenwest/node-config](https://github.com/lorenwest/node-config) #node
-3. [https://www.npmjs.com/package/shortid](https://www.npmjs.com/package/shortid)
-4. [https://www.npmjs.com/package/mysql](https://www.npmjs.com/package/mysql) #node #mysql
-5. [https://www.npmjs.com/package/mysql2](https://www.npmjs.com/package/mysql2) #node #mysql
-6. [https://www.npmjs.com/package/jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) #JWT
-7. [https://express-validator.github.io/docs/](https://express-validator.github.io/docs/) #express
-8. [https://www.npmjs.com/package/svg-url-loader](https://www.npmjs.com/package/svg-url-loader) #react
-9. [https://www.npmjs.com/package/react-svg-loader](https://www.npmjs.com/package/react-svg-loader) #react
-10. [https://leafletjs.com/](https://leafletjs.com/) #maps 
-11. [https://www.chartjs.org/](https://www.chartjs.org/)
-12. [http://hammerjs.github.io/](http://hammerjs.github.io/) #touch
-13. [https://d3js.org/](https://d3js.org/)
-14. [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
-15. [https://popper.js.org/](https://popper.js.org/)
-16. **Axios** [https://github.com/axios/axios](https://github.com/axios/axios)
+1. [https://github.com/lorenwest/node-config](https://github.com/lorenwest/node-config) #node
+1. [https://www.npmjs.com/package/shortid](https://www.npmjs.com/package/shortid)
+1. [https://www.npmjs.com/package/mysql](https://www.npmjs.com/package/mysql) #node #mysql
+1. [https://www.npmjs.com/package/mysql2](https://www.npmjs.com/package/mysql2) #node #mysql
+1. [https://www.npmjs.com/package/jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) #JWT
+1. [https://express-validator.github.io/docs/](https://express-validator.github.io/docs/) #express
+1. [https://www.npmjs.com/package/svg-url-loader](https://www.npmjs.com/package/svg-url-loader) #react
+1. [https://www.npmjs.com/package/react-svg-loader](https://www.npmjs.com/package/react-svg-loader) #react
+1. [https://leafletjs.com/](https://leafletjs.com/) #maps 
+1. [https://www.chartjs.org/](https://www.chartjs.org/)
+1. [http://hammerjs.github.io/](http://hammerjs.github.io/) #touch
+1. [https://d3js.org/](https://d3js.org/)
+1. [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
+1. [https://popper.js.org/](https://popper.js.org/)
+1. **Axios** [https://github.com/axios/axios](https://github.com/axios/axios)
+1. [https://www.npmjs.com/package/uuid](https://www.npmjs.com/package/uuid)
 
 [⬆ Back to Top](#list)
 
