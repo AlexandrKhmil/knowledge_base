@@ -27,6 +27,8 @@ PostgreSQL - [https://www.postgresql.org/](https://www.postgresql.org/) #SQL
 
 Wiki.PostgreSQL - [https://wiki.postgresql.org/](https://wiki.postgresql.org/)
 
+**Awesome** - [https://github.com/dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
+
 ## MongoDB
 
 [https://www.mongodb.com/](https://www.mongodb.com/) #NoSQL
