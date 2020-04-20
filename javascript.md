@@ -76,6 +76,7 @@ Redux - [https://redux.js.org/](https://redux.js.org/)
 1. [https://github.com/zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
 1. [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
 1. [https://github.com/rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)
+1. Redux-Promise - [https://github.com/redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise)
 
 [⬆ Back to Top](#list)
 
