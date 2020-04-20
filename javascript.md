@@ -69,12 +69,13 @@ Redux - [https://redux.js.org/](https://redux.js.org/)
 ### Redux Libs
 
 1. [https://react-redux.js.org/](https://react-redux.js.org/)
-2. [https://redux-form.com/](https://redux-form.com/)
-3. [https://github.com/reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk)
-4. [https://redux-saga.js.org/](https://redux-saga.js.org/)
-5. [https://github.com/zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
-6. [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
-7. [https://github.com/rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)
+1. [https://redux-form.com/](https://redux-form.com/)
+1. [https://github.com/reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk)
+1. [https://redux-saga.js.org/](https://redux-saga.js.org/)
+    1. [https://www.npmjs.com/package/sweet-redux-saga](https://www.npmjs.com/package/sweet-redux-saga)
+1. [https://github.com/zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
+1. [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
+1. [https://github.com/rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)
 
 [⬆ Back to Top](#list)
 
