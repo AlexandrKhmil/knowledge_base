@@ -26,6 +26,7 @@
 
 1. Examples - [http://www.databaseanswers.org/data_models/](http://www.databaseanswers.org/data_models/)
 1. Convention - [https://www.isbe.net/Documents/SQL_server_standards.pdf](https://www.isbe.net/Documents/SQL_server_standards.pdf)
+1. Convention - [https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/](https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/)
 
 ## PostgreSQL
 
