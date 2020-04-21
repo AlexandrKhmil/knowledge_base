@@ -67,8 +67,9 @@
 ## TypeScript
 
 1. TypeScript - [https://www.typescriptlang.org/index.html](https://www.typescriptlang.org/index.html)
-2. Flow - [https://flow.org/](https://flow.org/)
-3. ImmutaleJS - [https://immutable-js.github.io/immutable-js/](https://immutable-js.github.io/immutable-js/)
+1. Flow - [https://flow.org/](https://flow.org/)
+1. ImmutaleJS - [https://immutable-js.github.io/immutable-js/](https://immutable-js.github.io/immutable-js/)
+1. **Awesome** - [https://github.com/dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript)
 
 [⬆ Back to Top](#list)
 
