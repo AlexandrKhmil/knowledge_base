@@ -68,6 +68,9 @@
 React - [https://reactjs.org/](https://reactjs.org/)
 Create React App - [https://create-react-app.dev/](https://create-react-app.dev/)
 
+1. **Awesome** - [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+1. **Awesome** - [https://github.com/brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+
 ### React Frameworks
 
 1. NextJS - [https://nextjs.org/](https://nextjs.org/)
