@@ -79,6 +79,7 @@ Redux - [https://redux.js.org/](https://redux.js.org/)
 1. [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
 1. [https://github.com/rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)
 1. Redux-Promise - [https://github.com/redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise)
+1. Redux Arc - [https://redux-arc.js.org/](https://redux-arc.js.org/)
 
 [⬆ Back to Top](#list)
 
