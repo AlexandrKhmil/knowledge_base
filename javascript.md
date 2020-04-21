@@ -6,21 +6,33 @@
 
 ## List
 
-1. [docs](#docs)
-2. [Boundles](#boundles)
-3. [TypeScript](#typescript)
-4. [React](#react)
-5. [Redux](#redux)
-6. [NodeJS](#nodejs)
-7. [Testing](#testing)
-8. [Other Frameworks](#other-frameworks)
-9. [Other Libs](#other-libs)
-10. [Other](#other)
+1. [Coding](#coding)
+1. [Docs](#docs)
+1. [Boundles](#boundles)
+1. [TypeScript](#typescript)
+1. [React](#react)
+1. [Redux](#redux)
+1. [NodeJS](#nodejs)
+1. [Testing](#testing)
+1. [Other Frameworks](#other-frameworks)
+1. [Other Libs](#other-libs)
+1. [Other](#other)
+
+## Coding
+
+1. Beautifier - [https://beautifier.io/](https://beautifier.io/)
+1. JSLint - [http://jslint.com/](http://jslint.com/)
+1. JSHint - [https://jshint.com/](https://jshint.com/)
+1. ESLing - [https://eslint.org/](https://eslint.org/)
+1. Clean Code - [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+1. Google JS Guide - [https://google.github.io/styleguide/jsguide.html](https://google.github.io/styleguide/jsguide.html)
+1. Douglas Crockford's Convention - [https://www.crockford.com/code.html](https://www.crockford.com/code.html)
+1. W3Schools JS Convention - [https://www.w3schools.com/js/js_conventions.asp](https://www.w3schools.com/js/js_conventions.asp)
+1. Annotation - [https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler)
+1. Naming Convention Article - [https://www.robinwieruch.de/javascript-naming-conventions](https://www.robinwieruch.de/javascript-naming-conventions)
 
 ## docs
 
-1. JSLint - [http://jslint.com/](http://jslint.com/)
-1. JSHint - [https://jshint.com/](https://jshint.com/)
 1. A List of Useful Resources for Front End Developers - [https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents)
 1. What the f\*ck JavaScript? - [https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
 1. **Awesome JS** - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
