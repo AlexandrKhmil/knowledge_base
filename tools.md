@@ -2,7 +2,16 @@
 
 ## Link to Other Files
 
-[JavaScript](./javascript.md) [Python](./python.md) [DB](./databases.md) [Tools](./tools.md)
+- [JavaScript](./javascript.md)
+- [Python](./python.md)
+- [DataBases](./databases.md)
+- [API](./api.md)
+- [Tools](./tools.md)
+- [OS](./os.md)
+- [Books](./books.md)
+- [English](./english.md)
+- [Problems](./problems.md)
+- [Other](./other.md)
 
 ## SQL
 
@@ -13,10 +22,10 @@
 1. DataGrip - [https://www.jetbrains.com/datagrip/](https://www.jetbrains.com/datagrip/) #jetbrains
 1. DBeaver - [https://dbeaver.io/](https://dbeaver.io/)
 1. Best GUI tools for PostgreSQL - [https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows](https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows)
-1. [https://www.dbdesigner.net/](https://www.dbdesigner.net/) #web
-1. [https://www.pgadmin.org/download/](https://www.pgadmin.org/download/)
-1. [http://phppgadmin.sourceforge.net/](http://phppgadmin.sourceforge.net/)
-1. [https://pgmodeler.io/](https://pgmodeler.io/)
+1. DBDesigner - [https://www.dbdesigner.net/](https://www.dbdesigner.net/) #web
+1. PGAdmin - [https://www.pgadmin.org/download/](https://www.pgadmin.org/download/)
+1. PHPGAdmin - [http://phppgadmin.sourceforge.net/](http://phppgadmin.sourceforge.net/)
+1. PGModeler - [https://pgmodeler.io/](https://pgmodeler.io/)
 
 ## Code Editors
 

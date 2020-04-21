@@ -1,5 +1,18 @@
 # Links
 
+## Link to Other Files
+
+- [JavaScript](./javascript.md)
+- [Python](./python.md)
+- [DataBases](./databases.md)
+- [API](./api.md)
+- [Tools](./tools.md)
+- [OS](./os.md)
+- [Books](./books.md)
+- [English](./english.md)
+- [Problems](./problems.md)
+- [Other](./other.md)
+
 ## math
 
 1. [https://www.mathsisfun.com/](https://www.mathsisfun.com/) 

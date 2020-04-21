@@ -1,5 +1,18 @@
 # Data Science
 
+## Link to Other Files
+
+- [JavaScript](./javascript.md)
+- [Python](./python.md)
+- [DataBases](./databases.md)
+- [API](./api.md)
+- [Tools](./tools.md)
+- [OS](./os.md)
+- [Books](./books.md)
+- [English](./english.md)
+- [Problems](./problems.md)
+- [Other](./other.md)
+
 ## Stock Prediction
 
 1. [Michael S Jenkins The Science of Numbers Forecasting the Stock Market](https://www.youtube.com/watch?v=Ta0MSq6-9hc)
