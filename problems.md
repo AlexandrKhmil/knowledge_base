@@ -1,5 +1,9 @@
 # Problems
 
+## vscode
+
+1. [Toggle Word Wrap does not use user setting editor.wrappingColumn](https://github.com/microsoft/vscode/issues/6433)
+
 ## Markdown
 
 1. ["Dropdowns" in Markdown](https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61)
