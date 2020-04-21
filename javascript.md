@@ -20,6 +20,7 @@
 ## docs
 
 1. JSLint - [http://jslint.com/](http://jslint.com/)
+1. JSHint - [https://jshint.com/](https://jshint.com/)
 1. A List of Useful Resources for Front End Developers - [https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents)
 1. What the f\*ck JavaScript? - [https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
 1. **Awesome JS** - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
