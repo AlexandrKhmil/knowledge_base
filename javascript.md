@@ -24,12 +24,15 @@
 1. JSLint - [http://jslint.com/](http://jslint.com/)
 1. JSHint - [https://jshint.com/](https://jshint.com/)
 1. ESLing - [https://eslint.org/](https://eslint.org/)
-1. Clean Code - [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+1. **Clean Code JavaScript** - [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 1. Google JS Guide - [https://google.github.io/styleguide/jsguide.html](https://google.github.io/styleguide/jsguide.html)
 1. Douglas Crockford's Convention - [https://www.crockford.com/code.html](https://www.crockford.com/code.html)
 1. W3Schools JS Convention - [https://www.w3schools.com/js/js_conventions.asp](https://www.w3schools.com/js/js_conventions.asp)
 1. Annotation - [https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler)
 1. Naming Convention Article - [https://www.robinwieruch.de/javascript-naming-conventions](https://www.robinwieruch.de/javascript-naming-conventions)
+
+## File Structure
+
 1. Atomic Design - [https://bradfrost.com/blog/post/atomic-web-design/](https://bradfrost.com/blog/post/atomic-web-design/)
 
 ## docs
