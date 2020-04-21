@@ -6,7 +6,7 @@
 
 ## List
 
-1. [Repos](#repos)
+1. [docs](#docs)
 2. [Boundles](#boundles)
 3. [TypeScript](#typescript)
 4. [React](#react)
@@ -17,16 +17,17 @@
 9. [Other Libs](#other-libs)
 10. [Other](#other)
 
-## Repos
+## docs
 
+1. JSLint - [http://jslint.com/](http://jslint.com/)
 1. A List of Useful Resources for Front End Developers - [https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents)
-2. What the f\*ck JavaScript? - [https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
-3. **Awesome JS** - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. JavaScript Questions - [https://github.com/lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
-5. JavaScript Algorithms and Data Structures - [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-6. Clean Code JavaScript - [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-7. Free Resources JS - [https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-8. Free Programming Books - [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+1. What the f\*ck JavaScript? - [https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+1. **Awesome JS** - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. JavaScript Questions - [https://github.com/lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+1. JavaScript Algorithms and Data Structures - [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+1. Clean Code JavaScript - [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+1. Free Resources JS - [https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+1. Free Programming Books - [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 [⬆ Back to Top](#list)
 
