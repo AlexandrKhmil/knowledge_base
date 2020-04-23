@@ -31,8 +31,9 @@
 ## examples
 
 1. [https://github.com/bradtraversy/lead_manager_react_django](https://github.com/bradtraversy/lead_manager_react_django) #sqlite #django #react #redux
-2. [https://github.com/vladilenm/mern-full-course](https://github.com/vladilenm/mern-full-course) #mongodb #express #react #nodejs
-3. [https://evertpot.com/executing-a-mysql-query-in-nodejs/](https://evertpot.com/executing-a-mysql-query-in-nodejs/)
+1. [https://github.com/vladilenm/mern-full-course](https://github.com/vladilenm/mern-full-course) #mongodb #express #react #nodejs
+1. [https://evertpot.com/executing-a-mysql-query-in-nodejs/](https://evertpot.com/executing-a-mysql-query-in-nodejs/)
+1. [https://github.com/fullstackreact/food-lookup-demo](https://github.com/fullstackreact/food-lookup-demo)
 
 ## css
 
