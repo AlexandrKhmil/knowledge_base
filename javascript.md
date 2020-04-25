@@ -120,6 +120,7 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 
 1. [https://adonisjs.com/](https://adonisjs.com/)
 2. [https://expressjs.com/](https://expressjs.com/)
+    1. [https://express-validator.github.io/](https://express-validator.github.io/)
 3. [https://www.fastify.io/](https://www.fastify.io/)
 4. [https://hapi.dev/](https://hapi.dev/)
 5. [https://koajs.com/](https://koajs.com/)
