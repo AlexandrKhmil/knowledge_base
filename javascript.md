@@ -39,6 +39,7 @@
 1. W3Schools JS Convention - [https://www.w3schools.com/js/js_conventions.asp](https://www.w3schools.com/js/js_conventions.asp)
 1. Annotation - [https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler)
 1. Naming Convention Article - [https://www.robinwieruch.de/javascript-naming-conventions](https://www.robinwieruch.de/javascript-naming-conventions)
+1. Airbnb Convention - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
 ## File Structure
 
