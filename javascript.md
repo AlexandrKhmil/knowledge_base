@@ -132,10 +132,11 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 ### NodeJS Libs
 
 1. [https://nodemon.io/](https://nodemon.io/)
-2. [http://www.passportjs.org/](http://www.passportjs.org/)
-3. [https://github.com/SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro)
-4. [https://www.npmjs.com/package/node-mysql-admin](https://www.npmjs.com/package/node-mysql-admin)
-5. Socket - [https://socket.io/](https://socket.io/)
+1. [http://www.passportjs.org/](http://www.passportjs.org/)
+1. [https://github.com/SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro)
+1. [https://www.npmjs.com/package/node-mysql-admin](https://www.npmjs.com/package/node-mysql-admin)
+1. Socket - [https://socket.io/](https://socket.io/)
+1. CORS - [https://www.npmjs.com/package/cors](https://www.npmjs.com/package/cors)
 
 [Back](#list)
 
