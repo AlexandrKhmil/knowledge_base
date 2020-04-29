@@ -28,7 +28,8 @@
 ### React
 
 1. [Support for the experimental syntax 'classProperties' isn't currently enabled](https://stackoverflow.com/questions/52237855/support-for-the-experimental-syntax-classproperties-isnt-currently-enabled)
-2. [Adding a CSS Modules Stylesheet](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+1. [Adding a CSS Modules Stylesheet](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+1. [Getting error after i put Async function in useEffect](https://stackoverflow.com/questions/58495238/getting-error-after-i-put-async-function-in-useeffect)
 
 ### Angular
 
