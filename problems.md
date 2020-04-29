@@ -63,6 +63,11 @@
 3. [Best way to get identity of inserted row?](https://stackoverflow.com/questions/42648/best-way-to-get-identity-of-inserted-row)
 4. [\[VS Code\]\[ArchLinux\] Arch Linux secret_password_clear_sync() failed with error code 2: The name org.freedesktop.secrets was not provided by any .service files](https://github.com/MicrosoftDocs/live-share/issues/224)
 
+## Postgresql
+
+1. [Get Error: You must install at least one postgresql-client package when deploy to heroku](https://stackoverflow.com/questions/28290488/get-error-you-must-install-at-least-one-postgresql-client-version-package-whe)
+1. [Error: DEPTH_ZERO_SELF_SIGNED_CERT ](https://github.com/request/request/issues/418)
+
 ## Heroku
 
 1. [How to deploy local MySQL database to Heroku](https://stackoverflow.com/questions/15191259/how-to-deploy-local-mysql-database-to-heroku)
