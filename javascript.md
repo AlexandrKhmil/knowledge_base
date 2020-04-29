@@ -177,7 +177,8 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 1. [https://d3js.org/](https://d3js.org/)
 1. [http://bluebirdjs.com/docs/getting-started.html](http://bluebirdjs.com/docs/getting-started.html)
 1. [https://popper.js.org/](https://popper.js.org/)
-1. **Axios** [https://github.com/axios/axios](https://github.com/axios/axios)
+1. **Axios** [https://github.com/axios/axios](https://github.com/axios/axios) #http
+1. **Unirest** [https://www.npmjs.com/package/unirest](https://www.npmjs.com/package/unirest) #http
 1. [https://www.npmjs.com/package/uuid](https://www.npmjs.com/package/uuid)
 
 [⬆ Back to Top](#list)
