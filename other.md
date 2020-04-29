@@ -54,7 +54,8 @@
 ## Hosting
 
 1. [https://www.heroku.com/](https://www.heroku.com/)
-2. [https://aws.amazon.com/](https://aws.amazon.com/)
-3. [https://firebase.google.com/](https://firebase.google.com/)
-4. [https://zeit.co/](https://zeit.co/)
-5. [https://beget.com/ru/free-hosting](https://beget.com/ru/free-hosting)
+1. [https://aws.amazon.com/](https://aws.amazon.com/)
+1. [https://firebase.google.com/](https://firebase.google.com/)
+1. [https://zeit.co/](https://zeit.co/)
+1. [https://beget.com/ru/free-hosting](https://beget.com/ru/free-hosting)
+1. [https://www.netlify.com/](https://www.netlify.com/)
