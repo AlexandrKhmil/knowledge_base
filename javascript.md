@@ -89,8 +89,9 @@ Create React App - [https://create-react-app.dev/](https://create-react-app.dev/
 ### React Libs
 
 1. [https://reacttraining.com/react-router/](https://reacttraining.com/react-router/)
-2. [https://reactcommunity.org/react-transition-group/](https://reactcommunity.org/react-transition-group/)
-3. [https://github.com/schiehll/react-alert](https://github.com/schiehll/react-alert)
+1. [https://reactcommunity.org/react-transition-group/](https://reactcommunity.org/react-transition-group/)
+1. [https://github.com/schiehll/react-alert](https://github.com/schiehll/react-alert)
+1. [https://www.npmjs.com/package/react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2) #chartjs
 
 [⬆ Back to Top](#list)
 
