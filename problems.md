@@ -71,6 +71,7 @@
 ## Heroku
 
 1. [How to deploy local MySQL database to Heroku](https://stackoverflow.com/questions/15191259/how-to-deploy-local-mysql-database-to-heroku)
+1. [How To — Link Heroku PostgreSQL to your NodeJs app](https://medium.com/@jenniferolibie/how-to-link-heroku-postgresql-to-your-nodejs-app-c5df65cf6675)
 
 ## Other
 
