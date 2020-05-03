@@ -103,19 +103,18 @@ Redux - [https://redux.js.org/](https://redux.js.org/).
 
 Redux Utilities - [https://github.com/redux-utilities](https://github.com/redux-utilities) - Useful utilities to build Redux applications.
 
+1. Ecosystem - [https://redux.js.org/introduction/ecosystem#table-of-contents](https://redux.js.org/introduction/ecosystem#table-of-contents);
+1. **Awesome** - [https://github.com/xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux);
+1. React-Redux-Links - [https://github.com/markerikson/react-redux-links](https://github.com/markerikson/react-redux-links);
+
+
 1. Redux Toolkit - [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/);
 1. React-Redux - [https://react-redux.js.org/](https://react-redux.js.org/);
-
-//
-
-1. normalizr - [https://github.com/paularmstrong/normalizr](https://github.com/paularmstrong/normalizr);
-
-//
-
+1. Redux-Thunk - [https://github.com/reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk);
+1. Redux-Saga - [https://redux-saga.js.org/](https://redux-saga.js.org/);
+    1. Sweet-Redux-Saga - [https://www.npmjs.com/package/sweet-redux-saga](https://www.npmjs.com/package/sweet-redux-saga);
 1. [https://redux-form.com/](https://redux-form.com/)
-1. [https://github.com/reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk)
-1. [https://redux-saga.js.org/](https://redux-saga.js.org/)
-    1. [https://www.npmjs.com/package/sweet-redux-saga](https://www.npmjs.com/package/sweet-redux-saga)
+1. normalizr - [https://github.com/paularmstrong/normalizr](https://github.com/paularmstrong/normalizr);
 1. [https://github.com/zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
 1. [https://github.com/rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)
 1. Redux Arc - [https://redux-arc.js.org/](https://redux-arc.js.org/)
@@ -190,6 +189,7 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 1. **Unirest** - [https://www.npmjs.com/package/unirest](https://www.npmjs.com/package/unirest) #http
 1. **Request** - [https://www.npmjs.com/package/request](https://www.npmjs.com/package/request) #http
 1. **isomorphic-fetch** -[https://www.npmjs.com/package/isomorphic-fetch](https://www.npmjs.com/package/isomorphic-fetch) # http
+1. **cross-fetch** - [https://www.npmjs.com/package/cross-fetch](https://www.npmjs.com/package/cross-fetch) #http;
 1. [https://www.npmjs.com/package/uuid](https://www.npmjs.com/package/uuid)
 1. GoogleChart - [https://developers.google.com/chart/interactive/docs/quick_start](https://developers.google.com/chart/interactive/docs/quick_start)
 1. Dojichart - [https://github.com/dojichart/dojichart](https://github.com/dojichart/dojichart)
