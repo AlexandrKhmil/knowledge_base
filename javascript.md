@@ -150,15 +150,16 @@ NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 
 ## Other Frameworks
 
-1. RxJS - [https://rxjs-dev.firebaseapp.com/](https://rxjs-dev.firebaseapp.com/)
-2. GraphQL - [https://graphql.org/](https://graphql.org/)
-3. Apolli GraphQL - [https://www.apollographql.com/](https://www.apollographql.com/)
-4. Angular - [https://angular.io/](https://angular.io/) 
-    1. Update - [https://update.angular.io/](https://update.angular.io/)
-5. NgRx - [https://ngrx.io/](https://ngrx.io/)
-6. VueJS - [https://vuejs.org/](https://vuejs.org/)
-    1. VueCLI - [https://cli.vuejs.org/ru/](https://cli.vuejs.org/ru/)
-7. Electron - [https://www.electronforge.io/](https://www.electronforge.io/)
+1. RxJS - [https://rxjs-dev.firebaseapp.com/](https://rxjs-dev.firebaseapp.com/);
+1. GraphQL - [https://graphql.org/](https://graphql.org/);
+1. Apolli GraphQL - [https://www.apollographql.com/](https://www.apollographql.com/);
+1. Angular - [https://angular.io/](https://angular.io/);
+    1. Update - [https://update.angular.io/](https://update.angular.io/);
+1. NgRx - [https://ngrx.io/](https://ngrx.io/);
+1. VueJS - [https://vuejs.org/](https://vuejs.org/);
+    1. VueCLI - [https://cli.vuejs.org/ru/](https://cli.vuejs.org/ru/);
+1. Electron - [https://www.electronforge.io/](https://www.electronforge.io/);
+1. CycleJS - [https://cycle.js.org/](https://cycle.js.org/);
 
 [⬆ Back to Top](#list)
 
