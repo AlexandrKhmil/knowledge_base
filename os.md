@@ -23,6 +23,11 @@
 6. [https://www.balena.io/etcher/](https://www.balena.io/etcher/) #install
 7. [https://gparted.org/download.php](https://gparted.org/download.php) #restore
 
+### ArchLinux
+
+1. AUR - [https://www.archlinux.org/](https://www.archlinux.org/);
+1. AWiki - [https://wiki.archlinux.org/](https://wiki.archlinux.org/);
+
 ## Windows
 
 1. [https://sourceforge.net/projects/win32diskimager/](https://sourceforge.net/projects/win32diskimager/) #install
