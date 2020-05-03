@@ -13,6 +13,22 @@
 - [Problems](./problems.md)
 - [Other](./other.md)
 
+## OS
+
+### Linux
+
+1. [Linux ‘tree Command’ Usage Examples](https://www.tecmint.com/linux-tree-command-examples/);
+1. [How do I install .run files?](https://askubuntu.com/questions/18747/how-do-i-install-run-files);
+1. [How to install XAMPP on Debian 9](https://linux4one.com/how-to-install-xampp-on-debian-9/);
+
+#### Solus
+
+1. [Visual Studio Code's command doesn't work properly when opened from the terminal](https://dev.getsol.us/T2043);
+1. [Keyboard Shortcut to open a terminal](https://discuss.getsol.us/d/1427-keyboard-shortcut-to-open-a-terminal/8);
+1. [Setting Up Solus for Software Development](https://www.stuartellis.name/articles/solus-setup/);
+
+---
+
 ## vscode
 
 1. [Toggle Word Wrap does not use user setting editor.wrappingColumn](https://github.com/microsoft/vscode/issues/6433)
@@ -49,12 +65,6 @@
 1. [How to Create an App in Django ?](https://www.geeksforgeeks.org/how-to-create-an-app-in-django/)
 2. [Django Database – How to Connect MySQL Database with Django Project](https://data-flair.training/blogs/django-database/)
 3. [Инструкция: как перевести проект Django с SQLite на MySQL без боли](https://tproger.ru/articles/django-sqlite-to-mysql/)
-
-## Linux
-
-1. [Linux ‘tree Command’ Usage Examples](https://www.tecmint.com/linux-tree-command-examples/)
-2. [How do I install .run files?](https://askubuntu.com/questions/18747/how-do-i-install-run-files)
-3. [How to install XAMPP on Debian 9](https://linux4one.com/how-to-install-xampp-on-debian-9/)
 
 ## MySQL
 
