@@ -80,8 +80,8 @@
 React - [https://reactjs.org/](https://reactjs.org/)
 Create React App - [https://create-react-app.dev/](https://create-react-app.dev/)
 
-1. **Awesome** - [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)
-1. **Awesome** - [https://github.com/brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+1. **Awesome React** - [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react);
+1. **Awesome React Components** - [https://github.com/brillout/awesome-react-components](https://github.com/brillout/awesome-react-components);
 
 ### React Frameworks
 
@@ -104,7 +104,7 @@ Redux - [https://redux.js.org/](https://redux.js.org/).
 Redux Utilities - [https://github.com/redux-utilities](https://github.com/redux-utilities) - Useful utilities to build Redux applications.
 
 1. Redux Toolkit - [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/);
-1. [https://react-redux.js.org/](https://react-redux.js.org/);
+1. React-Redux - [https://react-redux.js.org/](https://react-redux.js.org/);
 
 //
 
