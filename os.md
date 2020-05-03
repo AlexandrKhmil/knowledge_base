@@ -28,6 +28,11 @@
 1. AUR - [https://www.archlinux.org/](https://www.archlinux.org/);
 1. AWiki - [https://wiki.archlinux.org/](https://wiki.archlinux.org/);
 
+### Solus
+
+1. Solus - [https://getsol.us/](https://getsol.us/articles/package-management/basics/en/);
+1. Package Management - [https://getsol.us/articles/package-management/basics/en/](https://getsol.us/articles/package-management/basics/en/);
+
 ## Windows
 
 1. [https://sourceforge.net/projects/win32diskimager/](https://sourceforge.net/projects/win32diskimager/) #install
