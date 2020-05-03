@@ -34,6 +34,8 @@
 1. CherryPy - [https://cherrypy.org/](https://cherrypy.org/);
 1. Bottle - [https://bottlepy.org/](https://bottlepy.org/);
 1. Flask - [https://palletsprojects.com/](https://palletsprojects.com/);
+1. TurboGears - [https://www.turbogears.org/](https://www.turbogears.org/);
+1. web2py - [http://www.web2py.com/](http://www.web2py.com/);
 
 ### Django
 
