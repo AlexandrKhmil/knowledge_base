@@ -13,29 +13,18 @@
 - [Problems](./problems.md)
 - [Other](./other.md)
 
-## SQL
-
-1. Workbench - [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/) #mysql
-1. SQLyog & SQL Diagnostic Manager - [https://www.webyog.com/](https://www.webyog.com/) #mysql
-1. HeidiSQL - [https://www.heidisql.com/](https://www.heidisql.com/) #mysql
-1. SQLiteStudio - [https://sqlitestudio.pl/index.rvt](https://sqlitestudio.pl/index.rvt)
-1. DataGrip - [https://www.jetbrains.com/datagrip/](https://www.jetbrains.com/datagrip/) #jetbrains
-1. DBeaver - [https://dbeaver.io/](https://dbeaver.io/)
-1. Best GUI tools for PostgreSQL - [https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows](https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows)
-1. DBDesigner - [https://www.dbdesigner.net/](https://www.dbdesigner.net/) #web
-1. PGAdmin - [https://www.pgadmin.org/download/](https://www.pgadmin.org/download/)
-1. PHPGAdmin - [http://phppgadmin.sourceforge.net/](http://phppgadmin.sourceforge.net/)
-1. PGModeler - [https://pgmodeler.io/](https://pgmodeler.io/)
-
 ## Code Editors
 
-1. [Notepad++](https://notepad-plus-plus.org/)
-1. [Atom](https://atom.io/)
-1. [Sublime Text](https://www.sublimetext.com/)
+1. Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/);
+1. Notepad++ - [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/);
+1. Atom - [https://atom.io/](https://atom.io/);
+1. Sublime Test - [https://www.sublimetext.com/](https://www.sublimetext.com/);
+1. Nano Editor - [https://www.nano-editor.org/](https://www.nano-editor.org/);
+1. Vim - [https://www.vim.org/](https://www.vim.org/);
+1. NewoVim - [https://neovim.io/](https://neovim.io/);
 
 ## IDE
 
-1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Intellij IDEA](https://www.jetbrains.com/idea/) #java #jetbrains
 1. [WebStorm](https://www.jetbrains.com/webstorm/) #js #jetbrains
 1. [PhpStorm](https://www.jetbrains.com/phpstorm/) #php #jetbrains
@@ -49,3 +38,23 @@
 
 1. [https://jupyter.org/](https://jupyter.org/) 
 1. [https://colab.research.google.com/](https://colab.research.google.com/)
+
+---
+
+
+
+---
+
+## SQL
+
+1. Workbench - [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/) #mysql
+1. SQLyog & SQL Diagnostic Manager - [https://www.webyog.com/](https://www.webyog.com/) #mysql
+1. HeidiSQL - [https://www.heidisql.com/](https://www.heidisql.com/) #mysql
+1. SQLiteStudio - [https://sqlitestudio.pl/index.rvt](https://sqlitestudio.pl/index.rvt)
+1. DataGrip - [https://www.jetbrains.com/datagrip/](https://www.jetbrains.com/datagrip/) #jetbrains
+1. DBeaver - [https://dbeaver.io/](https://dbeaver.io/)
+1. Best GUI tools for PostgreSQL - [https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows](https://www.slant.co/topics/7283/~gui-tools-for-postgresql-on-windows)
+1. DBDesigner - [https://www.dbdesigner.net/](https://www.dbdesigner.net/) #web
+1. PGAdmin - [https://www.pgadmin.org/download/](https://www.pgadmin.org/download/)
+1. PHPGAdmin - [http://phppgadmin.sourceforge.net/](http://phppgadmin.sourceforge.net/)
+1. PGModeler - [https://pgmodeler.io/](https://pgmodeler.io/)
