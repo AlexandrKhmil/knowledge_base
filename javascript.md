@@ -104,7 +104,14 @@ Redux - [https://redux.js.org/](https://redux.js.org/).
 Redux Utilities - [https://github.com/redux-utilities](https://github.com/redux-utilities) - Useful utilities to build Redux applications.
 
 1. Redux Toolkit - [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/);
-1. [https://react-redux.js.org/](https://react-redux.js.org/)
+1. [https://react-redux.js.org/](https://react-redux.js.org/);
+
+//
+
+1. normalizr - [https://github.com/paularmstrong/normalizr](https://github.com/paularmstrong/normalizr);
+
+//
+
 1. [https://redux-form.com/](https://redux-form.com/)
 1. [https://github.com/reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk)
 1. [https://redux-saga.js.org/](https://redux-saga.js.org/)
