@@ -53,9 +53,15 @@
 
 ## Hosting
 
-1. [https://www.heroku.com/](https://www.heroku.com/)
-1. [https://aws.amazon.com/](https://aws.amazon.com/)
-1. [https://firebase.google.com/](https://firebase.google.com/)
-1. [https://zeit.co/](https://zeit.co/)
-1. [https://beget.com/ru/free-hosting](https://beget.com/ru/free-hosting)
-1. [https://www.netlify.com/](https://www.netlify.com/)
+1. [https://www.heroku.com/](https://www.heroku.com/);
+1. [https://aws.amazon.com/](https://aws.amazon.com/);
+1. [https://firebase.google.com/](https://firebase.google.com/);
+1. [https://zeit.co/](https://zeit.co/);
+1. [https://beget.com/ru/free-hosting](https://beget.com/ru/free-hosting);
+1. [https://www.netlify.com/](https://www.netlify.com/);
+1. [https://aws.amazon.com/ru/lambda/features/](https://aws.amazon.com/ru/lambda/features/);
+1. [https://www.contentful.com/](https://www.contentful.com/) #cms
+
+## Resources
+
+1. [https://sourceforge.net/](https://sourceforge.net/);
