@@ -29,6 +29,12 @@
 
 ## Web
 
+### Frameworks
+
+1. CherryPy - [https://cherrypy.org/](https://cherrypy.org/);
+1. Bottle - [https://bottlepy.org/](https://bottlepy.org/);
+1. Flask - [https://palletsprojects.com/](https://palletsprojects.com/);
+
 ### Django
 
 1. [https://www.djangoproject.com/](https://www.djangoproject.com/)
@@ -54,6 +60,7 @@
 
 1. [Python Client for Google BigQuery](https://googleapis.dev/python/bigquery/latest/index.html)
     1. [Legacy SQL Functions and Operators](https://cloud.google.com/bigquery/docs/reference/legacy-sql)
+
 ## Scrapping
 
 1. [https://scrapy.org/](https://scrapy.org/)
