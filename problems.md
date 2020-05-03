@@ -39,7 +39,13 @@
 
 ## JavaScript
 
-1. [Get all unique values in a JavaScript array (remove duplicates)](https://stackoverflow.com/questions/1960473/get-all-unique-values-in-a-javascript-array-remove-duplicates)
+1. [Get all unique values in a JavaScript array (remove duplicates)](https://stackoverflow.com/questions/1960473/get-all-unique-values-in-a-javascript-array-remove-duplicates);
+1. [Add days to JavaScript Date](https://stackoverflow.com/questions/563406/add-days-to-javascript-date);
+
+### NodeJS
+
+1. [How to Run a Python script from Node.js](https://medium.com/swlh/run-python-script-from-node-js-and-send-data-to-browser-15677fcf199f) #nodejs-python;
+1. [How to communicate between Python and NodeJs](https://www.sohamkamani.com/blog/2015/08/21/python-nodejs-comm/) #nodejs-python;
 
 ### React
 
@@ -80,8 +86,9 @@
 
 ## Heroku
 
-1. [How to deploy local MySQL database to Heroku](https://stackoverflow.com/questions/15191259/how-to-deploy-local-mysql-database-to-heroku)
-1. [How To — Link Heroku PostgreSQL to your NodeJs app](https://medium.com/@jenniferolibie/how-to-link-heroku-postgresql-to-your-nodejs-app-c5df65cf6675)
+1. [How to deploy local MySQL database to Heroku](https://stackoverflow.com/questions/15191259/how-to-deploy-local-mysql-database-to-heroku);
+1. [How To — Link Heroku PostgreSQL to your NodeJs app](https://medium.com/@jenniferolibie/how-to-link-heroku-postgresql-to-your-nodejs-app-c5df65cf6675);
+1. [Python and Node.js on Heroku](https://stackoverflow.com/questions/39897505/python-and-node-js-on-heroku);
 
 ## Other
 
