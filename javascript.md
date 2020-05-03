@@ -99,19 +99,18 @@ Create React App - [https://create-react-app.dev/](https://create-react-app.dev/
 
 ## Redux
 
-Redux - [https://redux.js.org/](https://redux.js.org/)
+Redux - [https://redux.js.org/](https://redux.js.org/).
 
-### Redux Libs
+Redux Utilities - [https://github.com/redux-utilities](https://github.com/redux-utilities) - Useful utilities to build Redux applications.
 
+1. Redux Toolkit - [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/);
 1. [https://react-redux.js.org/](https://react-redux.js.org/)
 1. [https://redux-form.com/](https://redux-form.com/)
 1. [https://github.com/reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk)
 1. [https://redux-saga.js.org/](https://redux-saga.js.org/)
     1. [https://www.npmjs.com/package/sweet-redux-saga](https://www.npmjs.com/package/sweet-redux-saga)
 1. [https://github.com/zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
-1. [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
 1. [https://github.com/rt2zz/redux-persist](https://github.com/rt2zz/redux-persist)
-1. Redux-Promise - [https://github.com/redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise)
 1. Redux Arc - [https://redux-arc.js.org/](https://redux-arc.js.org/)
 
 [⬆ Back to Top](#list)
