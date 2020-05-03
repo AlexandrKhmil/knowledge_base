@@ -1,17 +1,8 @@
 # Data Bases
 
-## Link to Other Files
+[JavaScript](./javascript.md) | [Python](./python.md) | [DataBases](./databases.md) | [API](./api.md) | [Tools](./tools.md) | [OS](./os.md) | [Books](./books.md) | [English](./english.md) | [Problems](./problems.md) | [Other](./other.md)
 
-- [JavaScript](./javascript.md)
-- [Python](./python.md)
-- [DataBases](./databases.md)
-- [API](./api.md)
-- [Tools](./tools.md)
-- [OS](./os.md)
-- [Books](./books.md)
-- [English](./english.md)
-- [Problems](./problems.md)
-- [Other](./other.md)
+---
 
 ## List
 
@@ -30,6 +21,8 @@
 1. [Redis](#redis)
 1. [Apache Kafka](#apache-kafka)
 1. [Valentina](#valentina)
+
+---
 
 ## Docs
 

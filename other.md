@@ -1,17 +1,8 @@
 # Links
 
-## Link to Other Files
+[JavaScript](./javascript.md) | [Python](./python.md) | [DataBases](./databases.md) | [API](./api.md) | [Tools](./tools.md) | [OS](./os.md) | [Books](./books.md) | [English](./english.md) | [Problems](./problems.md) | [Other](./other.md)
 
-- [JavaScript](./javascript.md)
-- [Python](./python.md)
-- [DataBases](./databases.md)
-- [API](./api.md)
-- [Tools](./tools.md)
-- [OS](./os.md)
-- [Books](./books.md)
-- [English](./english.md)
-- [Problems](./problems.md)
-- [Other](./other.md)
+---
 
 ## math
 

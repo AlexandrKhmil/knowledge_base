@@ -1,31 +1,32 @@
 # JavaScript
 
-## Link to Other Files
+[JavaScript](./javascript.md) | [Python](./python.md) | [DataBases](./databases.md) | [API](./api.md) | [Tools](./tools.md) | [OS](./os.md) | [Books](./books.md) | [English](./english.md) | [Problems](./problems.md) | [Other](./other.md)
 
-- [JavaScript](./javascript.md)
-- [Python](./python.md)
-- [DataBases](./databases.md)
-- [API](./api.md)
-- [Tools](./tools.md)
-- [OS](./os.md)
-- [Books](./books.md)
-- [English](./english.md)
-- [Problems](./problems.md)
-- [Other](./other.md)
+---
 
 ## List
 
+1. [JavaScript](#javascript)
+1. [List](#list)
 1. [Coding](#coding)
-1. [Docs](#docs)
+1. [File Structure](#file1.structure)
+1. [docs](#docs)
 1. [Boundles](#boundles)
 1. [TypeScript](#typescript)
 1. [React](#react)
+    1. [React Frameworks](#react-frameworks)
+    1. [React Libs](#react-libs)
 1. [Redux](#redux)
+    1. [Redux Libs](#redux-libs)
 1. [NodeJS](#nodejs)
+    1. [NodeJS Frameworks](#nodejs-frameworks)
+    1. [NodeJS Libs](#nodejs-libs)
 1. [Testing](#testing)
 1. [Other Frameworks](#other-frameworks)
 1. [Other Libs](#other-libs)
 1. [Other](#other)
+
+---
 
 ## Coding
 

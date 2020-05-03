@@ -1,17 +1,8 @@
 # Books
 
-## Link to Other Files
+[JavaScript](./javascript.md) | [Python](./python.md) | [DataBases](./databases.md) | [API](./api.md) | [Tools](./tools.md) | [OS](./os.md) | [Books](./books.md) | [English](./english.md) | [Problems](./problems.md) | [Other](./other.md)
 
-- [JavaScript](./javascript.md)
-- [Python](./python.md)
-- [DataBases](./databases.md)
-- [API](./api.md)
-- [Tools](./tools.md)
-- [OS](./os.md)
-- [Books](./books.md)
-- [English](./english.md)
-- [Problems](./problems.md)
-- [Other](./other.md)
+---
 
 1. [https://python.swaroopch.com/](https://python.swaroopch.com/)
 1. [http://wombat.org.ua/AByteOfPython/AByteofPythonRussian-2.01.pdf](http://wombat.org.ua/AByteOfPython/AByteofPythonRussian-2.01.pdf)
