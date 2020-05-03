@@ -29,6 +29,10 @@
 
 ## Web
 
+### Servers
+
+1. Gunicorn - [https://gunicorn.org/](https://gunicorn.org/);
+
 ### Frameworks
 
 1. CherryPy - [https://cherrypy.org/](https://cherrypy.org/);
