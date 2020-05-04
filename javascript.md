@@ -42,6 +42,21 @@
 1. Naming Convention Article - [https://www.robinwieruch.de/javascript-naming-conventions](https://www.robinwieruch.de/javascript-naming-conventions)
 1. Airbnb Convention - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
+[⬆ Back to Top](#list)
+
+## Package Managers
+
+1. npm - [https://www.npmjs.com/](https://www.npmjs.com/);
+1. Yarn - [https://classic.yarnpkg.com/lang/en/](https://classic.yarnpkg.com/lang/en/);
+
+[⬆ Back to Top](#list)
+
+## Boundlers
+
+1. Webpack - [https://webpack.js.org/](https://webpack.js.org/);
+
+[⬆ Back to Top](#list)
+
 ## File Structure
 
 1. Atomic Design - [https://bradfrost.com/blog/post/atomic-web-design/](https://bradfrost.com/blog/post/atomic-web-design/)
@@ -56,13 +71,6 @@
 1. Clean Code JavaScript - [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 1. Free Resources JS - [https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 1. Free Programming Books - [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-
-[⬆ Back to Top](#list)
-
-## Boundles
-
-1. Webpack - [https://webpack.js.org/](https://webpack.js.org/)
-2. Yarn - [https://classic.yarnpkg.com/lang/en/](https://classic.yarnpkg.com/lang/en/)
 
 [⬆ Back to Top](#list)
 
