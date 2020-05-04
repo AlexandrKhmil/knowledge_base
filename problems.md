@@ -73,8 +73,9 @@
 
 ## Postgresql
 
-1. [Get Error: You must install at least one postgresql-client package when deploy to heroku](https://stackoverflow.com/questions/28290488/get-error-you-must-install-at-least-one-postgresql-client-version-package-whe)
-1. [Error: DEPTH_ZERO_SELF_SIGNED_CERT ](https://github.com/request/request/issues/418)
+1. [Get Error: You must install at least one postgresql-client package when deploy to heroku](https://stackoverflow.com/questions/28290488/get-error-you-must-install-at-least-one-postgresql-client-version-package-whe);
+1. [Error: DEPTH_ZERO_SELF_SIGNED_CERT ](https://github.com/request/request/issues/418);
+1. [Create Primary Key in DBeaver](https://github.com/dbeaver/dbeaver/wiki/New-Table-creation);
 
 ## Heroku
 
