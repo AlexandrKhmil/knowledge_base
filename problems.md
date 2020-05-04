@@ -77,6 +77,7 @@
 1. [Error: DEPTH_ZERO_SELF_SIGNED_CERT ](https://github.com/request/request/issues/418);
 1. [Create Primary Key in DBeaver](https://github.com/dbeaver/dbeaver/wiki/New-Table-creation);
 1. [Only appears one database in Dbeaver](https://github.com/dbeaver/dbeaver/issues/1849);
+1. [How do I automatically update a timestamp in PostgreSQL](https://stackoverflow.com/questions/9556474/how-do-i-automatically-update-a-timestamp-in-postgresql);
 
 ## Heroku
 
