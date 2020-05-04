@@ -11,6 +11,7 @@
 1. [Linux ‘tree Command’ Usage Examples](https://www.tecmint.com/linux-tree-command-examples/);
 1. [How do I install .run files?](https://askubuntu.com/questions/18747/how-do-i-install-run-files);
 1. [How to install XAMPP on Debian 9](https://linux4one.com/how-to-install-xampp-on-debian-9/);
+1. [fatal error: Python.h: No such file or directory](https://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory);
 
 #### Solus
 
