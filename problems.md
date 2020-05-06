@@ -80,6 +80,7 @@
 1. [How do I automatically update a timestamp in PostgreSQL](https://stackoverflow.com/questions/9556474/how-do-i-automatically-update-a-timestamp-in-postgresql);
 1. [PostgreSQL: Which Datatype should be used for Currency?](https://stackoverflow.com/questions/15726535/postgresql-which-datatype-should-be-used-for-currency);
 1. [ERROR:  could not identify an equality operator for type json](https://stackoverflow.com/questions/23509740/distinct-on-postgresql-json-data-column/23512013);
+1. [How to create function that returns nothing](https://stackoverflow.com/questions/14216716/how-to-create-function-that-returns-nothing);
 
 ## Heroku
 
