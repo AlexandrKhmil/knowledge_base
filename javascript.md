@@ -54,6 +54,7 @@
 ## Boundlers
 
 1. Webpack - [https://webpack.js.org/](https://webpack.js.org/);
+    1. Babel - [https://babeljs.io/](https://babeljs.io/);
 
 [⬆ Back to Top](#list)
 
