@@ -6,13 +6,14 @@
 
 ## Linux
 
-1. [https://distrowatch.com/](https://distrowatch.com/)
-2. [https://unetbootin.github.io/](https://unetbootin.github.io/) #install
-3. [https://ubuntu.ru/](https://ubuntu.ru/)
-4. [https://www.gnome.org/](https://www.gnome.org/) #GUI
-5. [https://www.winehq.org/](https://www.winehq.org/)
-6. [https://www.balena.io/etcher/](https://www.balena.io/etcher/) #install
-7. [https://gparted.org/download.php](https://gparted.org/download.php) #restore
+1. Snap - [https://snapcraft.io/](https://snapcraft.io/);
+1. [https://distrowatch.com/](https://distrowatch.com/);
+1. [https://unetbootin.github.io/](https://unetbootin.github.io/) #install;
+1. [https://ubuntu.ru/](https://ubuntu.ru/);
+1. [https://www.gnome.org/](https://www.gnome.org/) #GUI;
+1. [https://www.winehq.org/](https://www.winehq.org/);
+1. [https://www.balena.io/etcher/](https://www.balena.io/etcher/) #install;
+1. [https://gparted.org/download.php](https://gparted.org/download.php) #restore;
 
 ### ArchLinux
 
