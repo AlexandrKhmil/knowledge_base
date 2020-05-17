@@ -106,6 +106,7 @@ Create React App - [https://create-react-app.dev/](https://create-react-app.dev/
 1. [https://github.com/rakannimer/react-google-charts](https://github.com/rakannimer/react-google-charts)
 1. [https://www.npmjs.com/package/react-csv](https://www.npmjs.com/package/react-csv) #csv
 1. [https://www.npmjs.com/package/react-csv-reader](https://www.npmjs.com/package/react-csv-reader) #csv
+1. [https://www.npmjs.com/package/react-infinite-scroller](https://www.npmjs.com/package/react-infinite-scroller) #scroller
 
 [⬆ Back to Top](#list)
 
