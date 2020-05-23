@@ -60,3 +60,9 @@
 ## Programs
 
 1. FlameShot - [https://flameshot.js.org](https://flameshot.js.org);
+
+## Fonts
+
+1. FiraCode - [https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode);
+1. [https://input.fontbureau.com/](https://input.fontbureau.com/);
+1. iosevka - [https://typeof.net/Iosevka/](https://typeof.net/Iosevka/);
