@@ -46,6 +46,7 @@
 
 1. [https://www.heroku.com/](https://www.heroku.com/);
 1. [https://aws.amazon.com/](https://aws.amazon.com/);
+1. [https://aws.amazon.com/ru/amplify/](https://aws.amazon.com/ru/amplify/)
 1. [https://firebase.google.com/](https://firebase.google.com/);
 1. [https://zeit.co/](https://zeit.co/);
 1. [https://beget.com/ru/free-hosting](https://beget.com/ru/free-hosting);
