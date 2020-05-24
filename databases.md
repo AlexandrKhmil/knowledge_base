@@ -27,8 +27,11 @@
 ## Docs
 
 1. Examples - [http://www.databaseanswers.org/data_models/](http://www.databaseanswers.org/data_models/)
-1. Convention - [https://www.isbe.net/Documents/SQL_server_standards.pdf](https://www.isbe.net/Documents/SQL_server_standards.pdf)
-1. Convention - [https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/](https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/)
+1. Convention - [https://www.isbe.net/Documents/SQL_server_standards.pdf](https://www.isbe.net/Documents/SQL_server_standards.pdf);
+1. Convention - [https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/](https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/);
+1. Business-ops Data-team Style Guide - [https://about.gitlab.com/handbook/business-ops/data-team/sql-style-guide/](https://about.gitlab.com/handbook/business-ops/data-team/sql-style-guide/);
+1. Kickstarter SQL Style Guide - [https://gist.github.com/fredbenenson/7bb92718e19138c20591](https://gist.github.com/fredbenenson/7bb92718e19138c20591);
+1. Mazur's SQL Style Guide - [https://github.com/mattm/sql-style-guide](https://github.com/mattm/sql-style-guide);
 
 ## PostgreSQL
 
