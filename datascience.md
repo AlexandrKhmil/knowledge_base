@@ -13,3 +13,9 @@
 1. [https://www.kaggle.com/](https://www.kaggle.com/)
 2. [https://www.quandl.com/](https://www.quandl.com/)
 3. [https://www.google.com/finance](https://www.google.com/finance)
+
+## Cheat Sheets
+
+1. Data Structures Cheat Sheet - [https://www.clear.rice.edu/comp160/data_cheat.html](https://www.clear.rice.edu/comp160/data_cheat.html)
+1. Big-O Cheat Sheet - [https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)
+1. [https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html/3](https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html/3)
