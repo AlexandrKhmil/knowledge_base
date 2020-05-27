@@ -32,3 +32,4 @@
 1. Теория алгоритмов
 1. Python. Экспресс-курс. 3-е издание 
 1. Регулярные выражения
+1. The Ultimate Beginners Guide to learn SQL Programming 
