@@ -32,6 +32,7 @@
 1. Business-ops Data-team Style Guide - [https://about.gitlab.com/handbook/business-ops/data-team/sql-style-guide/](https://about.gitlab.com/handbook/business-ops/data-team/sql-style-guide/);
 1. Kickstarter SQL Style Guide - [https://gist.github.com/fredbenenson/7bb92718e19138c20591](https://gist.github.com/fredbenenson/7bb92718e19138c20591);
 1. Mazur's SQL Style Guide - [https://github.com/mattm/sql-style-guide](https://github.com/mattm/sql-style-guide);
+1. Simon Holywell's Style Guide - [https://www.sqlstyle.guide/](https://www.sqlstyle.guide/) 
 
 ## PostgreSQL
 
