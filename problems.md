@@ -83,6 +83,7 @@
 1. [How to create function that returns nothing](https://stackoverflow.com/questions/14216716/how-to-create-function-that-returns-nothing);
 1. Полезные трюки - [https://habr.com/ru/post/280912/](https://habr.com/ru/post/280912/)
 1. Курс - [https://habr.com/ru/post/340460/](https://habr.com/ru/post/340460/)
+1. [https://habr.com/ru/post/353556/](https://habr.com/ru/post/353556/)
 
 ## Heroku
 
